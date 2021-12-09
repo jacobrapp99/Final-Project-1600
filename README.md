@@ -1,6 +1,6 @@
-# H1 Choosing the Correct File Type!
-### H3 Jacob Rapp
+# Choosing the Correct File Type!
+### Jacob Rapp
 
-###### H6 This tutorial will walk you through the process of choosing the correct file type for your file.
+###### This tutorial will walk you through the process of choosing the correct file type for your file.
 
-###### H6
+###### This tutorial is for anyone of any age as long as you know how to use files on a computer. The only prior knowledge you will need is an understanding of what a file type is and what it is for.
