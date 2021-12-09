@@ -1,2 +1,6 @@
-# Final-Project-1600
-Final Project for INFOTC1600 that includes a tutorial for using the correct file type
+# H1 Choosing the Correct File Type!
+### H3 Jacob Rapp
+
+###### H6 This tutorial will walk you through the process of choosing the correct file type for your file.
+
+###### H6
